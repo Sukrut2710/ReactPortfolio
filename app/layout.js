@@ -12,7 +12,10 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Portfolio of Sukrut Dani - Software Developer",
   description:
-    "Software Developer with expertise in React.js, Node.js, and modern web technologies.",
+    "Software Developer with expertise in Java, Python and modern web technologies.",
+  icons: {
+    icon: []
+  }
 };
 
 export default function RootLayout({ children }) {
