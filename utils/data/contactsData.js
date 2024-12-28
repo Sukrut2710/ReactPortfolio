@@ -8,5 +8,5 @@ export const contactsData = {
     linkedIn: 'https://www.linkedin.com/in/sukrut-dani/',
     instagram: 'https://www.instagram.com/sukrutdani/',
     youtube: 'https://www.youtube.com/c/sukrutdanivlogs',
-    resume: "https://drive.google.com/file/d/1lb4QvCrVM0cP2LRBOCSdhp-qYGTrfOZZ/view?usp=drive_link"
+    resume: "https://www.canva.com/design/DAGam8PchsU/wHISQ0K3nFiK95yUR2f4rQ/view?utm_content=DAGam8PchsU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf4a2f19bf4"
 }
